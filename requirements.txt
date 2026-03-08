@@ -1,3 +1,4 @@
 streamlit
 SpeechRecognition
-pydub
+pyaudio
+streamlit-mic-recorder
